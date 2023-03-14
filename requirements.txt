@@ -1,0 +1,5 @@
+numpy
+tensorflow
+google-cloud-aiplatform
+streamlit==1.13.0
+gunicorn
